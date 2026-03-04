@@ -1,6 +1,6 @@
-
-
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndrewKochulab/react-native-swiftui-dsl/main/assets/banner.svg" alt="React Native SwiftUI DSL" width="100%">
+</p>
 
 Chainable modifiers • Theme-aware colors • Two-way bindings • Zero JSX • Config-free defaults
 
